@@ -1,5 +1,6 @@
 Lisa's Sausage & Red Pepper Pasta
 ---------------------------------
+<<<<<<< HEAD
 Ingredients:
 1 lb sliced onion
 3 tablespoons instantized flour
@@ -16,3 +17,19 @@ grated zest of lemon (to garnish)
 8. Meanwhile, bring a large pot of water to a boil and cook the pasta for about 7 minutes, or just until tender, but still firm. Slightly undercook the pasta as it will continue to cook and soak up liquid once added to the pot with the sausage and peppers.
 9. Once the pasta is finished cooking, drain it in a colander and then add it to the pot with the sausage and peppers.
 
+=======
+
+1 (28 oz.) can petite diced tomatoes
+1 tsp salt (or to taste)
+
+10. Stir to combine, place a lid on top, and allow the pasta to cook in the pepper sauce for about 5 more minutes, or until it has absorbed most of the liquid in the pot.
+11. Add about a half teaspoon of salt, taste, and add more if needed.
+
+Time: 35 minutes
+
+1 medium white or yellow onion
+2 cloves garlic
+
+Directions:
+7. Stir to combine and continue to cook over medium heat.
+>>>>>>> b8f357f7814e6f6cba0c010f0e69e146940ba42a
