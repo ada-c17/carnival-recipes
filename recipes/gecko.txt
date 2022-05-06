@@ -1,6 +1,11 @@
 Audrey's Meatloaf
 --------------
-<<<<<<< HEAD
+1 large onion, sliced
+3 tbsp fish sauce
+2. Sauté the onion until its layers separate from each other
+5. Pour the water and bring to a boil
+6. Add the taro and tomatoes then simmer for 40 minutes or until pork is tender
+
 Time: 1 hour
 
 1 cup (heaping) Freshly Grated Parmesan Cheese
@@ -14,7 +19,7 @@ Time: 1 hour
 
 4. Add eggs and crushed bananas. Combine well.
 9. Mix just until combined. Do not overmix.
-=======
+
 Servings: 8
 
 1 cup Whole Milk
@@ -40,4 +45,3 @@ Time: 1 hour
 2. Pour milk over the bread slices. Allow it to soak in for several minutes.
 7. Lay bacon slices over the top, tucking them underneath the meatloaf.
 
->>>>>>> 6fd1c921700cdf3eb550a13e4201f14584b67ca5
